@@ -30,7 +30,7 @@ module.exports = {
             
             query: {
                 //witch presets have to apply on code to convert to JS
-                presets: ['react', 'es2015']
+                presets: ['react', 'es2015', 'stage-0']
             },
 
             //witch files do we need
